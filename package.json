@@ -1,0 +1,21 @@
+{
+  "name": "exploration1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kml2p3/CS4830-Exploration1.git"
+  },
+  "author": "Kristyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kml2p3/CS4830-Exploration1/issues"
+  },
+  "homepage": "https://github.com/kml2p3/CS4830-Exploration1#readme"
+}
